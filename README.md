@@ -20,5 +20,4 @@ In contrast to other projects, the definition of "eligible" or "not eligible" is
 
 4.After our data is in good shape, we will do some exploratory data analysis to build our intuitions.
 
-5.Finally, we will build the best machine learning model that can predict if an individual's application for a credit card will be accepted by understanding a good or bad applicant.# CreditCardApproval
-# CreditCardApproval
+5.Finally, we will build the best machine learning model that can predict if an individual's application for a credit card will be accepted by understanding a good or bad applicant.
